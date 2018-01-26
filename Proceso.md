@@ -13,7 +13,8 @@ Ejemplos
   > **Info** aquí: [Montaje](https://google.com)<br/>
     `Gracias también a Ion`
 - ## Configurar conexion desde app móvil
-- ## En buil.particle.io seleccionar nuestro dispositivo
+- ## En [ésta](https://build.particle.io/build) web seleccionar nuestro dispositivo
+  > [Aquí](https://www.arduino.cc/reference/en/) hay información de como programar Photon
 - ## Añadir las librerias
 - ## Escibir el código y flashearlo en Photon
 - ## Comprobar mediante los led que esta encendido y ejecutando el código correctamente
@@ -40,6 +41,10 @@ Ejemplos
       $ sudo apt-get update
       $ sudo apt-get install aptitude
       $ cd Desktop
+      ```
+- ## Apagar la máquina
+      ```sh
+      $ vagrant halt
       ```
 - ## Configurar VagrantFile
 - ## Compartir una carpeta para añadir y editar la web
