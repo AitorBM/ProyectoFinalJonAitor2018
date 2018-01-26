@@ -8,4 +8,4 @@ Proyecto final DAM
     <br/>[Repo](https://github.com/Egibide-DAM/proyecto-2017)
 
 
-## Descargar el fichero VagrantFile
+## Descargar o clonar el [éste](https://github.com/AitorBM/ProyectoFinalJonAitor2018) repositorio.
