@@ -1,8 +1,14 @@
-[Ejemplo formato .md](https://stackedit.io/app)
+Ejemplos
 |----------------------------------------------|
+||
+|[Ejemplo formato .md](https://stackedit.io/app)|
+|Y otro [aquí](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)<br/>|
+
 # PROCESO REALIZADO
 
 - ## Montar Photon junto con el sensor
+      Se coloca la placa Photon en la base de conexiones.
+      Se coloca el sensor y mediante jumpers se conecta a Photon.
   > **Info** aquí: [Montaje](https://google.com)<br/>
     `Gracias también a Ion`
 - ## Configurar conexion desde app móvil
