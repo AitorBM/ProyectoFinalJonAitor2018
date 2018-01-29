@@ -1,11 +1,24 @@
 # ProyectoFinalJonAitor2018
 Proyecto final DAM
 
-[Proceso que hemos seguido](https://github.com/AitorBM/ProyectoFinalJonAitor2018/blob/master/Proceso.md)
+Explicación del [proceso](https://github.com/AitorBM/ProyectoFinalJonAitor2018/blob/master/Proceso.md)  que hemos seguido.
 
-  > Info del proyecto en [dropbox](https://www.dropbox.com/sh/dvc6av0rjhkq94b/AADIgfvF83NRkawAnpXX86tZa?dl=0)
-    <br/>Info del proyecto en [github](https://egibide-dam.github.io/proyecto-2017/)
-    <br/>[Repo](https://github.com/Egibide-DAM/proyecto-2017)
+> Info del proyecto en [dropbox](https://www.dropbox.com/sh/dvc6av0rjhkq94b/AADIgfvF83NRkawAnpXX86tZa?dl=0)
+<br/>Info del proyecto en [github](https://egibide-dam.github.io/proyecto-2017/)
+<br/>[Repositorio original](https://github.com/Egibide-DAM/proyecto-2017)
 
-
-## Descargar o clonar el [éste](https://github.com/AitorBM/ProyectoFinalJonAitor2018) repositorio.
+- ## Descargar o clonar [éste](https://github.com/AitorBM/ProyectoFinalJonAitor2018) repositorio.
+- ## Instalar virtual box y su extension pack.
+- ## Instalar Vagrant.
+- ## Abir la consola de windows
+>Presiona la tecla de windows + r
+>Escribe cmd y presiona enter
+ - ## Posicionate en la carpeta clonada de github.
+ ```sh
+ cd "ruta"
+ ```
+ - ## Inicia el servidor.
+ ```sh
+ vagrant up
+ ```
+ 
