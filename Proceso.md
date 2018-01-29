@@ -54,6 +54,8 @@ $ vagrant halt
 ```
 - ## Configurar VagrantFile.
 - ## Compartir una carpeta para añadir y editar la web y el script js.
+- ## El objetivo es almacenar los datos en BD mediante MQTT.
+  > [Ejemplo](http://ediy.com.my/blog/item/143-store-messages-from-mosquitto-mqtt-broker-into-sql-database).
 - ## Crear la BD y sus tablas
 |       ID       |     TOPIC      |       MSG      |
 |----------------|----------------|----------------|
