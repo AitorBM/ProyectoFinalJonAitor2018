@@ -76,7 +76,8 @@ $ sudo vagrant init mynewbox
   [ejemplo](http://ediy.com.my/blog/item/143-store-messages-from-mosquitto-mqtt-broker-into-sql-database).
 - ## Crear la BD y sus tablas
   - Script [SQL]()
+  
 |       ID       |     TOPIC      |       MSG      |   FECHA|
 |----------------|----------------|----------------|----------------|
 |       `1`      |      temp      |       23       |asdfasdfr|
-|                |                |                ||
+|                |                |                | |
