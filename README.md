@@ -9,9 +9,9 @@ Explicación del [proceso](https://github.com/AitorBM/ProyectoFinalJonAitor2018/
 <br/>[Repositorio](https://github.com/Egibide-DAM/proyecto-2017) original.
 ---
 
-- ## Descargar o clonar [éste](https://github.com/AitorBM/ProyectoFinalJonAitor2018) repositorio.
-- ## Instalar virtual box y su extension pack.
-- ## Instalar Vagrant.
+- ## Descargar o clonar éste [repositorio](https://github.com/AitorBM/ProyectoFinalJonAitor2018).
+- ## Instalar [VirtualBox](https://www.virtualbox.org/wiki/Downloads) y su [Extension Pack](https://download.virtualbox.org/virtualbox/5.2.6/Oracle_VM_VirtualBox_Extension_Pack-5.2.6-120293.vbox-extpack).
+- ## Instalar [Vagrant](https://www.vagrantup.com/downloads.html).
 - ## Abir la consola de windows
 >Presiona la tecla de windows + r
 >Escribe cmd y presiona enter
