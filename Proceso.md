@@ -13,7 +13,10 @@ Ejemplos
   - Se coloca el Photon en la base de conexiones.
   - Se coloca el sensor y mediante jumper wires se conecta a Photon.
   > **Info** del [montaje](https://learn.adafruit.com/dht/connecting-to-a-dhtxx-sensor).<br/>
-    `asd`
+  
+  
+  `En ésta imagen se puede apreciar como están distribuidas las conexiones de la mini-breadboard.`
+  ![Image](https://cdn.sparkfun.com/assets/3/d/f/a/9/518c0b34ce395fea62000002.jpg)
 - ## Configurar conexion desde app móvil
   - Instalar en Android o IOs la aplicación "Particle".
   - Desde ella configurar la conexión a internet vía Wi-Fi del Photon.
