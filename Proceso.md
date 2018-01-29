@@ -5,15 +5,17 @@ Ejemplos
 |[otro](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html)
 [otro](http://commonmark.org/help/)|
 
+---
+
 # PROCESO REALIZADO
 
-- ## Montar Photon junto con el sensor
-      Se coloca la placa Photon en la base de conexiones.
-      Se coloca el sensor y mediante jumpers se conecta a Photon.
-  > **Info** aquí: [Montaje](https://google.com)<br/>
+- ## Montar Photon junto con el sensor.
+  - Se coloca la placa Photon en la base de conexiones.
+  - Se coloca el sensor y mediante jumpers se conecta a Photon.
+  > **Info** aquí: [Montaje](https://learn.adafruit.com/dht/connecting-to-a-dhtxx-sensor)<br/>
     `Gracias también a Ion`
 - ## Configurar conexion desde app móvil
-- ## En [ésta](https://build.particle.io/build) web seleccionar nuestro dispositivo
+- ## En la web de [Particle](https://build.particle.io/build) seleccionar nuestro dispositivo.
   > [Aquí](https://www.arduino.cc/reference/en/) hay información de como programar Photon
 - ## Añadir las librerias
 - ## Escibir el código y flashearlo en Photon
