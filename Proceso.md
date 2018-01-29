@@ -24,7 +24,7 @@ Ejemplos
 - ## Comprobar mediante los led que esta encendido y ejecutando el código correctamente.
   > Verde fijo si está encendido correctamente.
   > Otro led azul parpadeando por cada loop del código.
-- ## Comprobar desde la [consola]()console.particle.io que envia datos correctamente.
+- ## Comprobar desde el log de la [consola](https://console.particle.io/events) que envia datos correctamente.
 - ## Instalar [VirtualBox](https://www.virtualbox.org/wiki/Downloads) y su [Extension Pack](https://download.virtualbox.org/virtualbox/5.2.6/Oracle_VM_VirtualBox_Extension_Pack-5.2.6-120293.vbox-extpack).
 - ## Instalar [Vagrant](https://www.vagrantup.com/downloads.html).
 - ## Construir el VagrantBox.
